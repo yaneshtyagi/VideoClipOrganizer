@@ -3,6 +3,10 @@ VideoClipOrganizer
 
 An open source project to manage you video clips - created and downloaded both.
 
+**Update (Jan 2024)**
+I thought of this 10 years ago. Since then, things has changed a lot. Today, we do not download but watch the videos online. So, it only makes sense, that this organizer can bookmark an online video(e.g. from youtube) with the desired time index. I can write a note about that bookmark as well. This will be useful when I am watching a video as part of my research of a topic.
+
+
 ## Implemented Features
 Nothing as of now. It's only in the planning phase.
 
